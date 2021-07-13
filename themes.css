@@ -1,0 +1,65 @@
+:root.light {
+   --color1: #171717;
+   --color2: #bb8760;
+   --color3: #a19882;
+   --color4: #b8dfd8;
+   --color5: #e8f6ef;
+   --color6: #fef7dc;
+}
+:root.dark {
+   --color1: #ffe194;
+   --color2: #a19882;
+   --color3: #423f3e;
+   --color4: #2b2b2b;
+   --color5: #362222;
+   --color6: #171010;
+}
+
+:root.blue {
+   --color1: #f1f1f1;
+   --color2: #88fff7;
+   --color3: #7dedff;
+   --color4: #548ca8;
+   --color5: #185adb;
+   --color6: #0a1931;
+}
+:root.red {
+   --color1: #faf1e6;
+   --color2: #e99497;
+   --color3: #ff616d;
+   --color4: #c84b31;
+   --color5: #d83a56;
+   --color6: #cd113b;
+}
+:root.purple {
+   --color1: #ecd662;
+   --color2: #5d8233;
+   --color3: #284e78;
+   --color4: #3e215d;
+   --color5: #68379d;
+   --color6: #3e215d;
+}
+:root.gray {
+   --color1: #fff5eb;
+   --color2: #d5dbb3;
+   --color3: #b2b8a3;
+   --color4: #f4cca4;
+   --color5: #343f56;
+   --color6: #2f2f30;
+}
+:root.yellow {
+   --color1: #233e8b;
+   --color2: #5d8233;
+   --color3: #e1701a;
+   --color4: #e1e5ea;
+   --color5: #ffffc7;
+   --color6: #ffc93c;
+}
+:root.green {
+   --color1: #f8ede3;
+   --color2: #bdd2b6;
+   --color3: #bfcba8;
+   --color4: #5b6d5b;
+   --color5: #464f41;
+   --color6: #206a5d;
+}
